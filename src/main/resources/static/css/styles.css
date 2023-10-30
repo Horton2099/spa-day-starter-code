@@ -24,3 +24,29 @@ table {
             padding: 10px;
             text-align: center;
 }
+
+.block {
+    text-align: center;
+
+}
+
+.square {
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+}
+
+.square2 {
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    background-color: red;
+}
+
+.square3 {
+    display: inline-block;
+    width: 500px;
+     height: 500px;
+     background-color: purple;
+}
